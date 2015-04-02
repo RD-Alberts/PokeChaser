@@ -1,0 +1,2 @@
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race gameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race gameContent\obj\x86\Debug\Race gameContent.contentprojResolveAssemblyReference.cache

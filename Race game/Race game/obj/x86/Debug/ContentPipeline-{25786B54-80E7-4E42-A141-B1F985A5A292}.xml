@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-10-09T12:39:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2013-10-09T12:54:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pichu.png</Source>
+      <Name>pichu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\pichu.xnb</Output>
+      <Time>2013-10-09T13:50:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sparrow.png</Source>
+      <Name>sparrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\sparrow.xnb</Output>
+      <Time>2013-10-09T14:01:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>growlight.png</Source>
+      <Name>growlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\growlight.xnb</Output>
+      <Time>2013-10-09T14:18:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartBG.png</Source>
+      <Name>StartBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\StartBG.xnb</Output>
+      <Time>2013-10-09T16:43:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dodrio.png</Source>
+      <Name>dodrio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\dodrio.xnb</Output>
+      <Time>2013-10-09T17:45:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>electrode.png</Source>
+      <Name>electrode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\electrode.xnb</Output>
+      <Time>2013-10-09T17:45:12+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{25786B54-80E7-4E42-A141-B1F985A5A292}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race gameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-05T20:49:07.076517+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

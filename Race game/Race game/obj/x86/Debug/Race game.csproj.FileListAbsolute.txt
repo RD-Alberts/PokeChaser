@@ -1,0 +1,28 @@
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Race game.exe
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Race game.pdb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\obj\x86\Debug\Race game.exe
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\obj\x86\Debug\Race game.pdb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\player.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\background.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\pichu.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\sparrow.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\growlight.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\StartBG.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\dodrio.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\Race game\Race game\Race game\bin\x86\Debug\Content\electrode.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\player.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\background.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\pichu.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\sparrow.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\growlight.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\StartBG.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\dodrio.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Content\electrode.xnb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Race game.exe
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\bin\x86\Debug\Race game.pdb
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\obj\x86\Debug\Race game.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\obj\x86\Debug\Race game.exe
+C:\Users\Rachel\Documents\Visual Studio 2010\Projects\pokeChaser\Race game\Race game\Race game\obj\x86\Debug\Race game.pdb
